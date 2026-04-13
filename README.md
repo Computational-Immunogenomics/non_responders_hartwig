@@ -27,3 +27,7 @@ The underlying study data comes from the Hartwig Medical Database, and data acce
     - Store helper functions used throughout the analyses
 - map.r,map.py,run.py
     - Maps of folder locations and run file
+
+---
+# Contact
+For questions: Joseph Usset - josephusset@vhio.net
