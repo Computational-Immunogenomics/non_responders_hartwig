@@ -1,0 +1,7 @@
+util/tmp/
+util/figs/
+.ipynb_checkpoints/
+*/tmp/*
+*.ipynb
+*prep.py
+*ready.py
